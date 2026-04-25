@@ -10,7 +10,6 @@
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ### 🎓 Professional Certification & Strategy
-![IBM](https://img.shields.io/badge/IBM-SkillsBuild-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
 ![Business Strategy](https://img.shields.io/badge/Business-Strategy-darkgreen?style=for-the-badge&logo=google-sheets&logoColor=white)
 ![Market Analysis](https://img.shields.io/badge/Market-Analysis-orange?style=for-the-badge&logo=analytics&logoColor=white)
 ![GDPR Compliant](https://img.shields.io/badge/GDPR-Compliant-blue?style=for-the-badge&logo=gdpr&logoColor=white)
